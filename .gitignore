@@ -3,3 +3,23 @@
 package-lock.json
 package.json
 
+#ignorar directorios
+
+/node_modules
+
+#ignorar archivos con extension dentro de un directorio
+
+/public/js/*.js
+
+#ignorar parte del contenido de un directorio
+
+/public/css/bootstrap.min.css
+
+#todo un directorio excepto algunos
+
+!/public/js/cerrars.js
+!/public/js/regproducto.js
+!/public/js/script.js
+
+
+
