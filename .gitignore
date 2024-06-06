@@ -21,5 +21,11 @@ package.json
 !/public/js/regproducto.js
 !/public/js/script.js
 
+#una carpeta dentro de un directorio
+
+/public/css/**/*.css
+
+!/public/css/styles.css
+
 
 
