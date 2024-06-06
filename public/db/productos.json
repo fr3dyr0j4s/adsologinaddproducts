@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "nombre": "Leche",
+        "descripcion": "Fresca, de animales con pastoreo orgánico, libre de patógenos, análisis por laboratorio",
+        "precio": "2500",
+        "cantidad": "50",
+        "imagen": "public\\img\\Leche.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Limon",
+        "descripcion": "De lo mejor",
+        "precio": "2250",
+        "cantidad": "25",
+        "imagen": "public\\img\\Limon.jpeg"
+    },
+    {
+        "id": "3",
+        "nombre": "Yuca",
+        "descripcion": "De la buena",
+        "precio": "1500",
+        "cantidad": "35",
+        "imagen": "public\\img\\Yuca.jpeg"
+    },
+    {
+        "id": "4",
+        "nombre": "Miel",
+        "descripcion": "De abeja africana",
+        "precio": "17500",
+        "cantidad": "18",
+        "imagen": "public\\img\\Miel.jpeg"
+    }
+]

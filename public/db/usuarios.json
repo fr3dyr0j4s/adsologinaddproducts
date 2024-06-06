@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "username": "johndoe",
+    "password": "password123",
+    "email": "johndoe@example.com",
+    "role": "user",
+    "phone": "123-456-7890",
+    "registration": "2020-01-01"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "password": "password456",
+    "email": "janesmith@example.com",
+    "role": "admin",
+    "phone": "987-654-3210",
+    "registration": "2019-05-15"
+  },
+  {
+    "id": "3",
+    "name": "Bob Johnson",
+    "username": "bobjohnson",
+    "password": "password789",
+    "email": "bobjohnson@example.com",
+    "role": "user",
+    "phone": "555-123-4567",
+    "registration": "2021-03-10"
+  },
+  {
+    "id": "4",
+    "name": "Alice Williams",
+    "username": "alicewilliams",
+    "password": "passwordabc",
+    "email": "alicewilliams@example.com",
+    "role": "user",
+    "phone": "777-888-9999",
+    "registration": "2018-11-20"
+  },
+  {
+    "id": "5",
+    "name": "Mike Brown",
+    "username": "mikebrown",
+    "password": "passwordxyz",
+    "email": "mikebrown@example.com",
+    "role": "user",
+    "phone": "111-222-3333",
+    "registration": "2022-02-28"
+  },
+  {
+    "id": "6",
+    "name": "Sara Davis",
+    "username": "saradavis",
+    "password": "password456",
+    "email": "saradavis@example.com",
+    "role": "admin",
+    "phone": "444-555-6666",
+    "registration": "2017-07-07"
+  },
+  {
+    "id": "7",
+    "name": "Tom Wilson",
+    "username": "tomwilson",
+    "password": "password789",
+    "email": "tomwilson@example.com",
+    "role": "user",
+    "phone": "999-888-7777",
+    "registration": "2019-10-12"
+  },
+  {
+    "id": "8",
+    "name": "Emily Taylor",
+    "username": "emilytaylor",
+    "password": "password123",
+    "email": "emilytaylor@example.com",
+    "role": "user",
+    "phone": "333-444-5555",
+    "registration": "2021-06-25"
+  },
+  {
+    "id": "9",
+    "name": "Chris Anderson",
+    "username": "chrisanderson",
+    "password": "passwordabc",
+    "email": "chrisanderson@example.com",
+    "role": "user",
+    "phone": "666-777-8888",
+    "registration": "2020-09-03"
+  },
+  {
+    "id": "10",
+    "name": "Olivia Martinez",
+    "username": "oliviamartinez",
+    "password": "passwordxyz",
+    "email": "oliviamartinez@example.com",
+    "role": "admin",
+    "phone": "222-333-4444",
+    "registration": "2018-03-18"
+  },
+  {
+    "id": "11",
+    "name": "Daniel Clark",
+    "username": "danielclark",
+    "password": "password456",
+    "email": "danielclark@example.com",
+    "role": "user",
+    "phone": "555-666-7777",
+    "registration": "2022-07-01"
+  },
+  {
+    "id": "12",
+    "name": "Sophia Rodriguez",
+    "username": "sophiarodriguez",
+    "password": "password789",
+    "email": "sophiarodriguez@example.com",
+    "role": "user",
+    "phone": "888-999-0000",
+    "registration": "2019-12-05"
+  },
+  {
+    "id": "13",
+    "name": "James Lee",
+    "username": "jameslee",
+    "password": "password123",
+    "email": "jameslee@example.com",
+    "role": "user",
+    "phone": "111-222-3333",
+    "registration": "2021-04-15"
+  },
+  {
+    "id": "14",
+    "name": "Ava Walker",
+    "username": "avawalker",
+    "password": "passwordabc",
+    "email": "avawalker@example.com",
+    "role": "user",
+    "phone": "444-555-6666",
+    "registration": "2018-08-20"
+  },
+  {
+    "id": "15",
+    "name": "Benjamin Hall",
+    "username": "benjaminhall",
+    "password": "passwordxyz",
+    "email": "benjaminhall@example.com",
+    "role": "admin",
+    "phone": "999-888-7777",
+    "registration": "2022-03-03"
+  },
+  {
+    "id": "16",
+    "name": "Mia Young",
+    "username": "miayoung",
+    "password": "password456",
+    "email": "miayoung@example.com",
+    "role": "user",
+    "phone": "333-444-5555",
+    "registration": "2017-09-08"
+  },
+  {
+    "id": "17",
+    "name": "Henry Scott",
+    "username": "henryscott",
+    "password": "password789",
+    "email": "henryscott@example.com",
+    "role": "user",
+    "phone": "666-777-8888",
+    "registration": "2019-11-23"
+  },
+  {
+    "id": "18",
+    "name": "Ella King",
+    "username": "ellaking",
+    "password": "password123",
+    "email": "ellaking@example.com",
+    "role": "user",
+    "phone": "222-333-4444",
+    "registration": "2020-02-12"
+  },
+  {
+    "id": "19",
+    "name": "Andrew Lopez",
+    "username": "andrewlopez",
+    "password": "passwordabc",
+    "email": "andrewlopez@example.com",
+    "role": "admin",
+    "phone": "555-666-7777",
+    "registration": "2018-06-27"
+  },
+  {
+    "id": "20",
+    "name": "Lily Green",
+    "username": "lilygreen",
+    "password": "passwordxyz",
+    "email": "lilygreen@example.com",
+    "role": "user",
+    "phone": "888-999-0000",
+    "registration": "2021-01-09"
+  }
+]

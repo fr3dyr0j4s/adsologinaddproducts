@@ -1,0 +1,5 @@
+#ignorar archivos
+
+package-lock.json
+package.json
+

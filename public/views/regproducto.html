@@ -1,0 +1,48 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+    <h1 class="text-center">Bienvenido usuario <div class="textol" id="usuarioreg"></div></h1>
+    <button type="button" class="btn btn-danger" id="btnsalir">Cerrar sesión</button>
+    <!-- para un solo archivo -->
+    <div class="d-flex justify-content-center">
+    <div class="card mt-3 sombracaja" style="width: 40%;">
+        <h1 class="text-center">Registrar Producto</h1>
+        <div class="d-flex justify-content-center p-3">
+            <form id="enviardatos" enctype="multipart/form-data">
+                <input type="text" class="form-control margincajas" id="idp" name="idp" value="">
+                <input type="text" class="form-control margincajas" id="nombrep" name="nombrep" placeholder="Nombre del producto" value="">
+                <textarea class="form-control margincajas" id="descripcionp" name="descripcionp" placeholder="Descripción"></textarea>
+                <input type="text" class="form-control margincajas cajapequena" id="preciop" name="preciop" placeholder="Precio" value="">
+                <input type="number" class="form-control margincajas cajapequena" id="cantidadp" name="cantidadp" value="">
+                <label for="inputGroupFile04" class="col-form-label">Imagen del producto</label>
+                    <input type="file" class="form-control" id="imagenp" name="imagenp">
+                <input type="button" id="registrarp" class="btn btn-primary textol margincajas" value="Registrar" style="width: 100%;">
+            </form>
+        </div>
+    </div>
+    </div>
+    <!-- para multiples archivos -->
+    <!-- <form action="/archivos" id="enviarimagenes" enctype="multipart/form-data" method="POST">
+        Seleccione las imagenes: <input type="file" name="archivos" multiple>
+        <p>
+            <input type="submit" id="enviar" value="Enviar imagen">
+        </p>
+    </form> -->
+    </div>
+    
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/regproducto.js"></script>
+    <script src="../js/cerrars.js"></script>
+</body>
+</html>

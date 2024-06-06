@@ -1,0 +1,15 @@
+.textol{
+    color: chartreuse;
+}
+
+.margincajas{
+    margin-block: 10px;
+}
+
+.cajapequena{
+    width: 30%;
+}
+
+.sombracaja{
+    box-shadow: 10px 10px 5px 0px rgba(17, 17, 16, 0.75);
+}
